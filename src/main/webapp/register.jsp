@@ -4,7 +4,7 @@
 </head>
 <body bgcolor="SlateBlue">
 
-	<h3>MAHA Reg</h3>
+	<h3>shiva Reg</h3>
 
 
 	<form action="register" method="post">
